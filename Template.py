@@ -23,6 +23,7 @@ bl_info = {
 #-----------------------------------------------------#
 import bpy 
 # bpy is the base for accessing all of blenders api
+
  
 #-----------------------------------------------------#
 #    Here is an example class with a simple drawn panel
